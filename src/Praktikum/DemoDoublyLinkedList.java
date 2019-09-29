@@ -1,5 +1,8 @@
 package Praktikum;
 
+/**
+ * @author Augie Winanda Favourite
+ */
 public class DemoDoublyLinkedList {
     public static void printListDouble(DoublyLinkedList<Double> list) {
         Node<Double> temp = list.head.getNext();
